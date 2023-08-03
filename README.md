@@ -1,3 +1,5 @@
+<h3>Employee List App</h3>
+
 ## Installation
 1. Make sure that you have Node 12.14 or newer installed. See instructions [here](https://nodejs.org/en/).
 
